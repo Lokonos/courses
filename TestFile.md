@@ -1,1 +1,0 @@
-This is just a test file to learn to use git.
